@@ -1,7 +1,7 @@
 import requests
 import json
 
-api_key = "00a644487487898add2523796d1e3b5e"
+api_key = "YOUR_API_KEY"
 while True:
     try:
         city = input("Şehir: ")
